@@ -10,9 +10,9 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
 
 ---
+
 <br><br>
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNsNHBkcXRmZWtxNHFjdWQxb3RpZ3V1bTE1MW4zZjdicDBobXlzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bt8FwKXiNKRkQ/giphy.gif" width="180"/>
-
 ## 🌐 Where to find me
 
 <p align="left">
