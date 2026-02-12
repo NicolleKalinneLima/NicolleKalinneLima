@@ -1,7 +1,12 @@
 # Hi 👋, I´m Nicolle Kalinne
 
 🚀 **Computer Science student focused on learning and building solid programming foundations**
+
 🇧🇷 **Brazil**
+
+<p align="right">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNsNHBkcXRmZWtxNHFjdWQxb3RpZ3V1bTE1MW4zZjdicDBobXlzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bt8FwKXiNKRkQ/giphy.gif" width="100" />
+</p>
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
