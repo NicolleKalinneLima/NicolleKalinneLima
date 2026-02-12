@@ -11,7 +11,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-<br><br>
+<br><br><br><br>
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNsNHBkcXRmZWtxNHFjdWQxb3RpZ3V1bTE1MW4zZjdicDBobXlzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bt8FwKXiNKRkQ/giphy.gif" width="180"/>
 ## 🌐 Where to find me
 
@@ -34,7 +34,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 -   🌐 Learning front-end and back-end development
 -   🛠️ Exploring tools and development environments
 -   📚 Continuously improving my programming skills
--   <br clear="right"/>
 
 ---
 
