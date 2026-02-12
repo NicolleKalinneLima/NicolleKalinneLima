@@ -34,6 +34,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 -   🌐 Learning front-end and back-end development
 -   🛠️ Exploring tools and development environments
 -   📚 Continuously improving my programming skills
+-   <br clear="right"/>
 
 ---
 
