@@ -11,8 +11,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-<br><br><br><br>
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNsNHBkcXRmZWtxNHFjdWQxb3RpZ3V1bTE1MW4zZjdicDBobXlzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bt8FwKXiNKRkQ/giphy.gif" width="180"/>
 ## 🌐 Where to find me
 
 <p align="left">
@@ -23,6 +21,8 @@ I also create content and share knowledge on **software development, SaaS, and t
     <img src="https://img.shields.io/badge/Instagram-@nicollekalinne-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
  
+<br><br><br><br>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNsNHBkcXRmZWtxNHFjdWQxb3RpZ3V1bTE1MW4zZjdicDBobXlzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bt8FwKXiNKRkQ/giphy.gif" width="180"/>
 
 ---
 
