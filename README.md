@@ -1,48 +1,49 @@
 <div align="center">
 
-  <h1><code>> Nicolle Kalinne_</code></h1>
-  
-  <p><strong>Computer Science Student | Software Engineer</strong></p>
+  <!-- Header Banner Terminal -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Nicolle%20Kalinne&fontSize=42&fontColor=00FF66&animation=twinkling&desc=Computer%20Science%20Student%20|%20Software%20Engineer&descSize=18&descAlignY=70" width="100%" />
 
-  <p>
-    🚀 <i>Building scalable products, SaaS platforms, and high-performance web systems.</i>
-  </p>
-
-  <p>
+  <!-- Social Badges em linha -->
+  <p align="center">
     <a href="https://github.com/NicolleKalinneLima">
-      <img src="https://img.shields.io/badge/GitHub-NicolleKalinneLima-000000?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=000000" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF66&border=00FF66" />
     </a>
     <a href="https://www.instagram.com/nicollekalinne/">
-      <img src="https://img.shields.io/badge/Instagram-@nicollekalinne-000000?style=for-the-badge&logo=instagram&logoColor=00FF66&labelColor=000000" alt="Instagram" />
+      <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00FF66" />
     </a>
-    <img src="https://img.shields.io/badge/Location-Brazil_🇧🇷-000000?style=for-the-badge&logoColor=00FF66&labelColor=000000&color=00FF66" alt="Brasil" />
+    <img src="https://img.shields.io/badge/LOCATION-BRAZIL-000000?style=for-the-badge&logo=googlemaps&logoColor=00FF66" />
   </p>
 
 </div>
 
+<br />
+
+<!-- Layout em Grid: Sobre Mim + Atuação -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><code>> system.profile()</code></h3>
+      <p>Desenvolvedora focada em criar produtos escaláveis, plataformas SaaS e sistemas web de alta performance.</p>
+      <p><i>"Engenharia de software voltada para arquitetura limpa, performance e valor de negócio."</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><code>> current.focus()</code></h3>
+      <ul>
+        <li><code>[✓]</code> Fundamentos de Ciência da Computação</li>
+        <li><code>[✓]</code> Resolução de Problemas & Algoritmos</li>
+        <li><code>[✓]</code> Desenvolvimento Full-stack & SaaS</li>
+        <li><code>[✓]</code> Empreendedorismo Tech</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ---
 
-### 🟢 // About Me
+### 🛠️ // Stack & Ferramentas
 
 ```text
-> Focus: Architecture, performance, clean code, and business-driven solutions.
-> Goals: Continuously improving programming foundations & tech entrepreneurship.
-
-I build scalable products and share knowledge on software development, SaaS, and technology. Always focused on learning and building solid programming foundations.
-
-🧠 // What I Do
-🧠 Studying Computer Science fundamentals
-
-💻 Building academic and personal projects
-
-🔍 Practicing problem-solving and algorithms
-
-🌐 Learning front-end and back-end development
-
-🛠️ Exploring tools and development environments
-
-📚 Continuously improving my programming skills
-
+CORE LANGUAGES & ECOSYSTEM
 🛠️ // Tech Stack
 Frontend
 Backend
