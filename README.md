@@ -27,3 +27,26 @@
 ```text
 > Focus: Architecture, performance, clean code, and business-driven solutions.
 > Goals: Continuously improving programming foundations & tech entrepreneurship.
+
+I build scalable products and share knowledge on software development, SaaS, and technology. Always focused on learning and building solid programming foundations.
+
+🧠 // What I Do
+🧠 Studying Computer Science fundamentals
+
+💻 Building academic and personal projects
+
+🔍 Practicing problem-solving and algorithms
+
+🌐 Learning front-end and back-end development
+
+🛠️ Exploring tools and development environments
+
+📚 Continuously improving my programming skills
+
+🛠️ // Tech Stack
+Frontend
+Backend
+DevOps & Tools
+📊 // GitHub Stats
+🚀 // Philosophy
+"Every line of code is a step forward."
