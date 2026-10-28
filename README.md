@@ -7,33 +7,33 @@
 
 <ul>
   <li>
-    <img src="https://api.iconify.design/lucide:monitor.svg?color=white" width="18" alt="Monitor" />
+    <img src="https://api.iconify.design/lucide:monitor.svg?color=%2322C55E" width="18" alt="Monitor" />
     &nbsp;Passionate about software development and constantly improving my skills
   </li>
   <li>
-    <img src="https://api.iconify.design/lucide:brain.svg?color=white" width="18" alt="Brain" />
+    <img src="https://api.iconify.design/lucide:brain.svg?color=%2322C55E" width="18" alt="Brain" />
     &nbsp;Computer Science student: 6/8
   </li>
   <li>
-    <img src="https://api.iconify.design/lucide:settings.svg?color=white" width="18" alt="Settings" />
+    <img src="https://api.iconify.design/lucide:settings.svg?color=%2322C55E" width="18" alt="Settings" />
     &nbsp; Dev Full-Stack 
   </li>
   <li>
-    <img src="https://api.iconify.design/lucide:mail.svg?color=white" width="18" alt="Email" />
+    <img src="https://api.iconify.design/lucide:mail.svg?color=%2322C55E" width="18" alt="Email" />
     &nbsp;How to reach me:
     <a href="mailto:nicollesousalima@gmail.com">nicollesousalima@gmail.com</a>
   </li>
   <li>
-    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" width="18" alt="LinkedIn" />
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%2322C55E" width="18" alt="LinkedIn" />
     &nbsp;LinkedIn:
     <a href="https://www.linkedin.com/in/nicolle-kalinne-839186306/">NicolleKalinne</a>
   </li>
 </ul>
 
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide:zap.svg?color=white" width="20" alt="" />
+  <img src="https://api.iconify.design/lucide:zap.svg?color=%2322C55E" width="20" alt="" />
   &nbsp;Stats&nbsp;
-  <img src="https://api.iconify.design/lucide:zap.svg?color=white" width="20" alt="" />
+  <img src="https://api.iconify.design/lucide:zap.svg?color=%2322C55E" width="20" alt="" />
 </h2>
 
 <p align="center">
